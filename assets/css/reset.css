@@ -1,0 +1,9 @@
+* {  /* é um elemento global, vai alterar todos os elementos sem precisar especificar*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
